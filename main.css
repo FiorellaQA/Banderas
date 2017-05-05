@@ -19,3 +19,6 @@ div.rojo{
 section.punto1 div{
 	float:left;
 }
+section.punto2 div{
+	float: right;
+}
