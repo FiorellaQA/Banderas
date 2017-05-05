@@ -1,5 +1,7 @@
 section{
 	border:1px solid black;
+	overflow: auto;
+	margin-bottom: 5px;
 }
 div{
 	width: 100px;
@@ -13,4 +15,7 @@ div.azul{
 }
 div.rojo{
 	background-color: red;
+}
+section.punto1 div{
+	float:left;
 }
