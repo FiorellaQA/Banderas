@@ -1,4 +1,9 @@
+body.flex-container{
+	display:flex;
+	flex-direction: column;
+}
 section{
+	width: 50%;
 	border:1px solid black;
 	overflow: auto;
 	margin-bottom: 5px;
